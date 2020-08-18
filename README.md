@@ -1,2 +1,7 @@
+Collection of small chatbots domne as part of Codecademy assignments
+
 # coffee_chatbot
-Codecademy assignment for a small system-initiative chatbot.
+Small system-initiative chatbot.
+
+# alien_bot
+Rule-based chatbot.
