@@ -1,4 +1,6 @@
 
+# Utils file for the coffee_chatbot
+
 # Ask for the size of the drink
 def get_size():
   res = input("What size drink can I get for you? \n[a] Small \n[b] Medium \n[c] Large \n ")
