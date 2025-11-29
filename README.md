@@ -1,4 +1,4 @@
-Collection of small chatbots domne as part of Codecademy assignments
+Collection of small chatbots done as part of Codecademy assignments
 
 # coffee_chatbot
 Small system-initiative chatbot.
